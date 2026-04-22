@@ -2,8 +2,8 @@
   // Visit https://aka.ms/tsconfig to read more about this file
   "compilerOptions": {
     // File Layout
-    // "rootDir": "./src",
-    // "outDir": "./dist",
+    "rootDir": "./src",
+    "outDir": "./public/assets/js",
 
     // Environment Settings
     // See also https://aka.ms/tsconfig/module
@@ -47,5 +47,5 @@
   "include": [
     "src/*",
     "app.ts"
-  ]
+, "src/libs/outro.ts"  ]
 }
