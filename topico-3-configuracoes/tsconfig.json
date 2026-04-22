@@ -4,6 +4,9 @@
     // File Layout
     "rootDir": "./src",
     "outDir": "./public/assets/js",
+    "removeComments": true,
+    // "noEmit": true,
+    // "noEmitOnError": true,
 
     // Environment Settings
     // See also https://aka.ms/tsconfig/module
